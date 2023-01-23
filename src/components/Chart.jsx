@@ -54,3 +54,4 @@ const Chart = ({ arr = [], currency, days }) => {
 };
 
 export default Chart;
+//third
